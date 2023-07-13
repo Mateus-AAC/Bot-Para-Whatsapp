@@ -1,6 +1,6 @@
 # Bot para Whatsapp
 
-<img src="https://static.whatsapp.net/rsrc.php/v3/yO/r/FsWUqRoOsPu.png" alt="exemplo imagem">
+<img src="https://conteudo.imguol.com.br/c/noticias/fb/2022/10/05/whatsapp-logo-icone-1664982948635_v2_900x506.png" alt="exemplo imagem">
 
 >  sistema para whatsapp usando a biblioteca whatsapp-web.js
 
